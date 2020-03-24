@@ -1,1 +1,3 @@
-Tutaj umieszczać projekt
+
+Scientific calculator
+C++/QT
