@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zespolona">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAIABQAAAAAgAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Zespolone.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Virtual">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Virtual.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calculator">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAACAgBIAgEAQQAAABIRIQAAAAAAAAAARggQQAACA=</HashCode>
+      <FileName>calculator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Complex">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEAgAAAAAAAACAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>complex.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tomek">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAEBIAgCAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>tomek.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_CalculatorClass" Collapsed="true">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMBAAARgAWEkoAAJBAEBABQEJwwAIAgEGARACwoAARA=</HashCode>
+      <FileName>GeneratedFiles\ui_calculator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Complex" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xgBAAAQQAAAAAgAACAEAAAAAIAQgIAAAAIAAAEAABAg=</HashCode>
+      <FileName>GeneratedFiles\ui_complex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Tomek" Collapsed="true">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAQAAgAAEAAAAAAAAAAAAAgAQAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_tomek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::CalculatorClass" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_calculator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Complex" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_complex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Tomek" Collapsed="true">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_tomek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="qt_meta_stringdata_Calculator_t" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_calculator.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Complex_t" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_complex.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Tomek_t" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_tomek.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::initializer" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>GeneratedFiles\qrc_calculator.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
